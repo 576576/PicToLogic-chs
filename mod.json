@@ -1,0 +1,10 @@
+{
+	"name": "pictologic",
+	"displayName": "PicToLogic汉化",
+	"author": "DeltaNedas, Router 和其他人们",
+	"description": "向游戏中添加了将png图片转化为逻辑蓝图的方式.\n[stat]依赖于 [#00aaff]DeltaNedas/ui-lib[].",
+	"version": "1.5.7",
+	"dependencies": ["ui-lib"],
+	"minGameVersion": 114,
+	"hidden": true
+}
